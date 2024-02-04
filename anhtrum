@@ -1472,7 +1472,7 @@ end)
 local Toggle1 = Section2:CreateToggle("Auto Race", nil, function(State)
 Heart = State
 while Heart do
-    wait(1)
+    wait(0)
     pcall(
         function()
             if Player.PlayerValues.Race.Value ~= ab4 then
