@@ -398,9 +398,9 @@ system = {
     "Lars' Minion",
     "Lars' Overseer",
     "Rahgan's Minion",
-    "Rahgan's Overseer"
-    "Zoro (PTS)"
-    "Zoro (TS)"
+    "Rahgan's Overseer",
+    "Zoro (PTS)",
+    "Zoro (TS)",
 }
 
 local Part = Instance.new("Part", Workspace)
